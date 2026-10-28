@@ -1,0 +1,11 @@
+{
+  "name": "wappcart-sales-hub",
+  "version": "4.0.0",
+  "private": true,
+  "description": "Published Wappcart Sales Hub v4 portable frontend",
+  "scripts": {
+    "verify": "node scripts/verify.mjs"
+  },
+  "dependencies": {},
+  "devDependencies": {}
+}

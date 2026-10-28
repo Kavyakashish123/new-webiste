@@ -1,0 +1,14 @@
+{
+  "project": "Wappcart Sales Hub",
+  "published_url": "https://wappcart-sales-hub.alertmug6.chatgpt.site/#telangana",
+  "published_version": 4,
+  "commit_sha": "7edd0e49c2a28a4e548e0b20b9fc5ae3e5fc3ec7",
+  "export_date": "2026-10-27",
+  "files": {
+    "public/index.html": "956705d257b422abe3c541cd414020c2a174e39671b3dc965bd587657b6f37dc",
+    "public/workspace.js": "2600a0cc114e0c0bfa1f902f2ec3bd9aa6efcf39637bb7b5591e4ced4f0ec3d0"
+  },
+  "runtime_dependencies": [],
+  "backend": false,
+  "server_database": false
+}
